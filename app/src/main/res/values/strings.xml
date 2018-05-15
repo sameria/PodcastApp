@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DC MD VA Related Podcasts</string>
+    <string name="politics_label">Politics: Policy and legislation specific to the region </string>
+    <string name="cultural_label">Culture: Events, history and more  </string>
+    <string name="music_label">Music: Popular and upcoming music </string>
+    <string name="style_label">Style: Latest styles popular or influenced by DMV residents </string>
+    <string name="family_label">Family: Important issues for families in the DMV</string>
+    <string name="title_activity_culture">CultureActivity</string>
+</resources>
