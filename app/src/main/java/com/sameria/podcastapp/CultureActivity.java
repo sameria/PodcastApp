@@ -37,14 +37,4 @@ public class CultureActivity extends AppCompatActivity  {
 
             GridView gridView = findViewById(R.id.list);
             gridView.setAdapter(adapter);
-
-            //Button menuButton = findViewById(R.id.main_menu_Button);
-           // menuButton.setOnClickListener(new View.OnClickListener() {
-             //   @Override
-              //  public void onClick(View v) {
-                 //   startActivity(new Intent(CultureActivity.this, MainActivity.class));
-                                    }
-           // });
-
-       // }
-    }
+    }}
